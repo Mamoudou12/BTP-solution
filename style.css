@@ -2,27 +2,6 @@ body {
     margin: 0;
 }
 
-/* .call {
-    width: 100%;
-    height:40px;
-    background-color: #3D6B63;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.send {
-    display: flex;
-    width: 10%;
-    margin: 15px;
-    height: 20px;
-    align-items: center;
-}
-
-.send img {
-    width: 30%;
-    margin: 0;
-} */
 
 header {
     background-color: #0C2C43;
